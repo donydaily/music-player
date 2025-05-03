@@ -30,4 +30,4 @@ music-player/
 
 ## 📸 Screenshot
 
-![Screenshot](https://github.com/donydaily/music-player/images/screenshot.png)
+![Screenshot](./images/screenshot.png)
