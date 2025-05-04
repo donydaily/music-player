@@ -58,6 +58,8 @@ canvas {
   overflow-y: auto;
   z-index: 2;
   font-size: 0.9rem;
+  -ms-overflow-style: none; /* untuk Internet Explorer dan Edge lama */
+  scrollbar-width: none;    /* untuk Firefox */
 }
 
 .playlist div {
@@ -68,6 +70,10 @@ canvas {
 .playlist .active {
   color: var(--accent-color);
   font-weight: bold;
+}
+
+.playlist::-webkit-scrollbar {
+  display: none;
 }
 
 :root {
