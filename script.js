@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     { title: 'Galau', artist: 'Five Minutes', art: 'images/galau.png', src: 'audio/galau.mp3' },
     { title: 'Kehadiranmu', artist: 'Vagetoz', art: 'images/kehadiranmu.png', src: 'audio/kehadiranmu.mp3' },
     { title: 'Main Hati', artist: 'Andra And The BackBone', art: 'images/main_hati.png', src: 'audio/main_hati.mp3' },
-    { title: 'Masih Ada', artist: 'Ello', art: 'images/masih_ada.png', src: 'audio/masih_ada.mp3' }
+    { title: 'Masih Ada', artist: 'Ello', art: 'images/masih_ada.png', src: 'audio/masih_ada.mp3' },
     { title: 'Supernatural', artist: 'Ariana Grande', art: 'images/supernatural.png', src: 'audio/supernatural.mp3' }
   ];
 
